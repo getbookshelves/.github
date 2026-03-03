@@ -1,25 +1,27 @@
-# BookShelves
+<p align="center">
+  <img src="https://raw.githubusercontent.com/getbookshelves/.github/main/profile/app-icon.png" alt="BookShelves" width="128" height="128">
+</p>
 
-**A free ebook reader app for macOS and iOS.**
+<h1 align="center">BookShelves</h1>
 
-BookShelves lets you browse, download, and read thousands of public domain books — all in beautiful EPUB format, with no DRM and no subscriptions.
+<p align="center">
+  <strong>A free ebook reader app for macOS and iOS.</strong><br>
+  Browse, download, and read DRM-free public domain books.
+</p>
 
-## What It Does
+<p align="center">
+  <a href="https://getbookshelves.app">Website</a> · 
+  <a href="https://apps.apple.com/app/bookshelves-epub-ebook-reader/id6450920847?mt=12">Mac App Store</a> · 
+  <a href="https://apps.apple.com/app/bookshelves-epub-ebook-reader/id6450920847">iOS App Store</a>
+</p>
 
-- Browse catalogs from [Standard Ebooks](https://standardebooks.org/), [Internet Archive](https://archive.org/), and other open libraries
-- Download books directly to your device
-- Read with a clean, distraction-free reader built for Apple platforms
-- Sync your library across Mac and iPhone with iCloud
-- Import your own EPUB and PDF files
+---
 
-## Why Free Books?
-
-The world's best literature is in the public domain. Thousands of novels, short stories, plays, and poems — from Austen to Kafka — are freely available as high-quality EPUB files. BookShelves makes discovering and reading them as easy as opening an app.
+BookShelves lets you browse catalogs from [Standard Ebooks](https://standardebooks.org/), [Internet Archive](https://archive.org/), and other open libraries — then download and read books right in the app. Sync your library across Mac and iPhone with iCloud. Import your own EPUB and PDF files.
 
 No accounts. No tracking. No DRM. Just books.
 
-## Links
+### Resources
 
-- [Website](https://getbookshelves.app)
-- [Mac App Store](https://apps.apple.com/app/bookshelves-epub-ebook-reader/id6450920847?mt=12)
-- [iOS App Store](https://apps.apple.com/app/bookshelves-epub-ebook-reader/id6450920847)
+- [Free Ebooks](https://github.com/getbookshelves/free-ebooks) — Curated list of places to find free, legal ebooks
+- [OPDS Catalog Guide](https://github.com/getbookshelves/opds-catalog) — How to discover and download ebooks using OPDS
