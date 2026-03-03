@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/getbookshelves/.github/main/profile/app-icon.png" alt="BookShelves" width="128" height="128">
+  <img src="https://raw.githubusercontent.com/getbookshelves/.github/main/profile/app-icon.png" alt="BookShelves eBook Reader" width="128" height="128">
 </p>
 
-<h1 align="center">BookShelves</h1>
+<h1 align="center">BookShelves eBook Reader</h1>
 
 <p align="center">
-  <strong>A free ebook reader app for macOS and iOS.</strong><br>
+  <strong>A free EPUB reader for macOS and iOS.</strong><br>
   Browse, download, and read DRM-free public domain books.
 </p>
 
