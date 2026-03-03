@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://getbookshelves.app">Website</a> · 
-  <a href="https://apps.apple.com/app/bookshelves-epub-ebook-reader/id6450920847?mt=12">Mac App Store</a> · 
-  <a href="https://apps.apple.com/app/bookshelves-epub-ebook-reader/id6450920847">iOS App Store</a>
+  <a href="https://apps.apple.com/app/bookshelves-epub-ebook-reader/id6450920847?ct=github-org&mt=12">Mac App Store</a> · 
+  <a href="https://apps.apple.com/app/bookshelves-epub-ebook-reader/id6450920847?ct=github-org&mt=8">iOS App Store</a>
 </p>
 
 ---
